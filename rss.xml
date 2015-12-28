@@ -4,8 +4,15 @@
         <description><![CDATA[Hey Be See - Got Nothing to Lose]]></description>
         <link>https://thegrid.ai/hey-be-see/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 09:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 10:23:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hey-be-see/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Draft Page]]></title>
+            <description><![CDATA[<article><h1>Draft Page</h1><p>Para 1:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b6fa226ad26e07ef714bfb8743eb8913d93e284.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hey-be-see/draft-page/index.html</link>
+            <guid isPermaLink="false">84ff6957-df47-4166-ac5f-5d3fdd49672f</guid>
+            <pubDate>Mon, 28 Dec 2015 10:23:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dear Dead Deer]]></title>
             <description><![CDATA[<article><h1>Dear Dead Deer</h1><p>Dead Deer - Homepage and page, no nav</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f42f25b9ec4bad9fd4180a54eb7b38c109814ee8.png"></article>]]></description>
