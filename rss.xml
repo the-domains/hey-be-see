@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Hey Be See]]></title>
-        <description><![CDATA[Hey Be See]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Hey Be See - Got Nothing to Lose]]></title>
+        <description><![CDATA[Hey Be See - Got Nothing to Lose]]></description>
+        <link>https://thegrid.ai/hey-be-see/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 09:51:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 09:59:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hey-be-see/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dear Dead Deer]]></title>
+            <description><![CDATA[<article><h1>Dear Dead Deer</h1><p>Dead Deer - Homepage and page, no nav</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f42f25b9ec4bad9fd4180a54eb7b38c109814ee8.png"></article>]]></description>
+            <link>https://thegrid.ai/hey-be-see/dear-dead-deer/index.html</link>
+            <guid isPermaLink="false">b71320a2-dd3e-44ab-bb0e-4817a66204e5</guid>
+            <pubDate>Mon, 28 Dec 2015 09:59:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trucks Stopped]]></title>
             <description><![CDATA[<article><h1>Trucks Stopped</h1><p>Trucks stopped Caption</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b88c652b1256b9108fcc00aad484ddc912db80e3.png"></article>]]></description>
-            <link>undefinedtrucks-stopped/index.html</link>
+            <link>https://thegrid.ai/hey-be-see/trucks-stopped/index.html</link>
             <guid isPermaLink="false">8cf54ba5-b758-4049-8ac5-25fdf0867d10</guid>
             <pubDate>Mon, 28 Dec 2015 09:51:17 GMT</pubDate>
         </item>
